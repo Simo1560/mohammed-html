@@ -10,7 +10,11 @@ Sitio web ficticio realizado con **HTML5** y **CSS3** (sin JavaScript), cumplien
 - `css/style.css`
 - `img/` (recursos de imagen)
 
-## Entrega (rellenar por el alumno)
-- Repositorio GitHub (público): **PEGA AQUÍ TU URL**
-- Hosting GitHub Pages: **PEGA AQUÍ TU URL (https://usuario.github.io/repo/)**
+
+- Repositorio GitHub (publico):
+https://github.com/mohammed-html/mohammed-html
+
+- Hosting Github Pages:
+https://mohammed-html.github.io/mohammed-html/
+
 
